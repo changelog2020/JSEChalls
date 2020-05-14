@@ -1,0 +1,16 @@
+*.id0
+*.id1
+*.id2
+*.til
+*.nam
+peda-session-*
+.gdb_history
+tags
+peda-session-*
+*.swp
+pid
+core
+out
+.DS_Store
+*.pyc
+libc.*.so
